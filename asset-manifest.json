@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.js": "/Togrul20/Shop-app.git/static/js/app.f340c7c2.chunk.js",
+    "app.js.map": "/Togrul20/Shop-app.git/static/js/app.f340c7c2.chunk.js.map",
+    "runtime~app.js": "/Togrul20/Shop-app.git/static/js/runtime~app.620b1178.js",
+    "runtime~app.js.map": "/Togrul20/Shop-app.git/static/js/runtime~app.620b1178.js.map",
+    "static/js/2.64f2a18e.chunk.js": "/Togrul20/Shop-app.git/static/js/2.64f2a18e.chunk.js",
+    "static/js/2.64f2a18e.chunk.js.map": "/Togrul20/Shop-app.git/static/js/2.64f2a18e.chunk.js.map",
+    "fonts/Ionicons.ttf": "/Togrul20/Shop-app.git/./fonts/Ionicons.ttf",
+    "favicon-16.png": "/Togrul20/Shop-app.git/favicon-16.png",
+    "favicon-32.png": "/Togrul20/Shop-app.git/favicon-32.png",
+    "favicon.ico": "/Togrul20/Shop-app.git/favicon.ico",
+    "index.html": "/Togrul20/Shop-app.git/index.html",
+    "manifest.json": "/Togrul20/Shop-app.git/manifest.json",
+    "serve.json": "/Togrul20/Shop-app.git/serve.json",
+    "static/js/2.64f2a18e.chunk.js.LICENSE.txt": "/Togrul20/Shop-app.git/static/js/2.64f2a18e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.620b1178.js",
+    "static/js/2.64f2a18e.chunk.js",
+    "static/js/app.f340c7c2.chunk.js"
+  ]
+}
