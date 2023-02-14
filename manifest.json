@@ -4,7 +4,7 @@
   "lang": "en",
   "name": "ShoppingList",
   "short_name": "ShoppingList",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "ShoppingList/index.html",
   "orientation": "portrait",
   "icons": [
     {
