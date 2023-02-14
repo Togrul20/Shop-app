@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/Shop-app/static/js/app.2364378c.chunk.js",
-    "app.js.map": "/Shop-app/static/js/app.2364378c.chunk.js.map",
+    "app.js": "/Shop-app/static/js/app.e8ff9485.chunk.js",
+    "app.js.map": "/Shop-app/static/js/app.e8ff9485.chunk.js.map",
     "runtime~app.js": "/Shop-app/static/js/runtime~app.ef8fb2dd.js",
     "runtime~app.js.map": "/Shop-app/static/js/runtime~app.ef8fb2dd.js.map",
-    "static/js/2.63f2a885.chunk.js": "/Shop-app/static/js/2.63f2a885.chunk.js",
-    "static/js/2.63f2a885.chunk.js.map": "/Shop-app/static/js/2.63f2a885.chunk.js.map",
+    "static/js/2.304eca2b.chunk.js": "/Shop-app/static/js/2.304eca2b.chunk.js",
+    "static/js/2.304eca2b.chunk.js.map": "/Shop-app/static/js/2.304eca2b.chunk.js.map",
     "fonts/Ionicons.ttf": "/Shop-app/./fonts/Ionicons.ttf",
     "fonts/MaterialCommunityIcons.ttf": "/Shop-app/./fonts/MaterialCommunityIcons.ttf",
     "favicon-16.png": "/Shop-app/favicon-16.png",
@@ -14,11 +14,11 @@
     "index.html": "/Shop-app/index.html",
     "manifest.json": "/Shop-app/manifest.json",
     "serve.json": "/Shop-app/serve.json",
-    "static/js/2.63f2a885.chunk.js.LICENSE.txt": "/Shop-app/static/js/2.63f2a885.chunk.js.LICENSE.txt"
+    "static/js/2.304eca2b.chunk.js.LICENSE.txt": "/Shop-app/static/js/2.304eca2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.ef8fb2dd.js",
-    "static/js/2.63f2a885.chunk.js",
-    "static/js/app.2364378c.chunk.js"
+    "static/js/2.304eca2b.chunk.js",
+    "static/js/app.e8ff9485.chunk.js"
   ]
 }
